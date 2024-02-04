@@ -1,0 +1,12 @@
+PUT http://127.0.0.1:8000/api/categories/7 HTTP/1.1
+Authorization: Bearer 11|vwZGQqfAUeguMou3oAbfuCVbDaWAtKuhcBxKbsRN114e6eb3
+Accept: application/json
+Content-Type: application/json
+
+{
+    "name": "zdzdzadadaz Updated de update de update category de middleware",
+    "picture": "https://fastly.picsum.photos/id/824/300/200.jpg?hmac=dL7dC0PUtQNI3QzV0Lv2zIAGvneX5r2h9Oa_3chy-2Y",
+    "description": "zdzdtest",
+    "slug": "zdzdtest",
+    "react_icon": "slugzdzdzd"
+}

@@ -1,0 +1,4 @@
+POST http://127.0.0.1:8000/api/check-validity-token
+Authorization: Bearer 2|Tfit7IHusvyE6Fb6pyUxHryz1LDyAMwIEkX4Hmxy3cc0604c
+Content-Type: application/json
+Accept: application/json

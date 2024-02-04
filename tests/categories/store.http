@@ -1,0 +1,8 @@
+POST http://127.0.0.1:8000/api/categories HTTP/1.1
+Authorization: Bearer 2|EBnxpOPu7Ou8ACKFThh4DMOS6QPFo1RX5hi2hZ4I59c32ae2
+Content-Type: application/json
+
+{
+"name": "new Category with middleware",
+"picture": "https://fastly.picsum.photos/id/919/300/200.jpg?hmac=K_Gj_rFLdlNccZlZmHNxUdGfeky4_uZMR2c8-x264xo"
+}
